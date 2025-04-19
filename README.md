@@ -38,7 +38,7 @@ Folder: `lab5-frameworks/bootstrap-demo/`
 
 # Group Members
 - Joshua Musukambale 2021418821
-- Mike
+- MikeMike Shatamuka 2021453006
 
 ---
 
